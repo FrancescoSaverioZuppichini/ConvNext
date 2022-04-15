@@ -3,7 +3,7 @@
 Hello There!! Today we are going to implement the famous ConvNext in PyTorch proposed in [A ConvNet for the 2020s
 ](https://arxiv.org/abs/2201.03545).
 
-Code is here, an interactive version of this article can be downloaded from here.
+Code is [here](https://github.com/FrancescoSaverioZuppichini/ConvNext), an interactive version of this article can be downloaded from [here](https://github.com/FrancescoSaverioZuppichini/ConvNext/blob/main/README.ipynb).
 
 Let's get started!
 
